@@ -6,8 +6,6 @@ Sept 2020 - Dec 2020.
 
 
 NOTE: In order to get virtualPunch working, you need to install homebrew from brew.sh and then
-
 brew install SDL
 pip3 install pygame
-
 for the respective python modules.
