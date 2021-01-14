@@ -11,4 +11,5 @@ pip3 install pygame
 for the respective python modules.
 
 The original code can be viewed at the Kentucky Fried Coder's Gitlab Page at:
+
 https://git.uwaterloo.ca/tbanipal/se-101-braille-printer
